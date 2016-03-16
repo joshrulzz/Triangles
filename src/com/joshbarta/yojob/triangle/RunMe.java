@@ -13,7 +13,7 @@ import com.joshbarta.yojob.triangle.model.Tree;
  * Author's assumptions and constraints:<ul><li>
  * - 100% standard JRE java 1.7 (so no junit or other outside libs) </li><li>
  * - clarity-optimized vs performance optimized (we really only need to run this once or twice) </li><li>
- * 
+ * - There is something important about the visual input structure that we want to perserve, so no sorting your structure
  * </li></ul>
  * 
  * @author Josh
